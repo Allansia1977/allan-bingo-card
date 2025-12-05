@@ -1,0 +1,5 @@
+{
+  "name": "Bingo Master",
+  "description": "A fully interactive 5x5 Bingo game with random number generation, line tracking, and sound effects.",
+  "requestFramePermissions": []
+}
